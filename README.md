@@ -98,6 +98,3 @@
 
 This application provides a streamlined interface for precise video editing operations, combining professional-grade video processing libraries with an intuitive timeline-based UI. The dark theme reduces eye strain during extended editing sessions, while the icon-based controls ensure quick access to core functionality.
 
-
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 04:39 UTC
